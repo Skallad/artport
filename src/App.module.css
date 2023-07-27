@@ -1,7 +1,11 @@
 .App {
     font-family: "Baloo 2", sans-serif;
-    background-color: #f8f8f8;
+    background-color: #f0f0f0;
     min-height: 100vh;
+}
+
+.Main {
+    padding-top: 81px;
 }
 
 * {
@@ -9,7 +13,7 @@
 }
 
 a {
-    color: #505050;
+    color: #808080;
     transition: color ease-in-out 0.5;
 }
 
@@ -18,12 +22,12 @@ a:hover {
 }
 
 a:hover i {
-    color: #252525;
+    color: #505050;
     transition: color ease-in-out 0.5s;
 }
 
 i {
-    color: #505050;
+    color: #808080;
     font-size: 1.4rem;
     padding: 8px;
     vertical-align: middle;
@@ -32,5 +36,5 @@ i {
 i:hover {
     cursor: pointer;
     transition: color ease-in-out 0.5s;
-    color: #252525;
+    color: #505050;
 }
