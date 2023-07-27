@@ -10,4 +10,4 @@ ArtPort is a website intended for artists and other people too. The purpose is f
 
 Code Institute for their Moments template, which serves as a base structure and guide for my project and how I built it.
 Phosphor Icons
-GoogleFont
+Google Fonts
